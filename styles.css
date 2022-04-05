@@ -1,0 +1,41 @@
+h1 {
+    color: blueviolet;
+}
+
+ul {
+    list-style: none;
+    border: 5px dashed;
+    margin: auto;
+    width: 50%;
+    padding-left: 0;
+    text-align: center;
+}
+
+ul>li {
+    border: 3px outset;
+    display: inline-block;
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+
+p {
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+.first {
+    margin-right: 60%;
+}
+
+.third {
+    margin-left: 60%;
+}
